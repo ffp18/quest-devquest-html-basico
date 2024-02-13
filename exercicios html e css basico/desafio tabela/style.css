@@ -1,0 +1,32 @@
+table, th, td {
+    border: 0px solid black;  
+    margin: 30px;
+    padding: 10px;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+   
+}
+ .cabecalho-casa {
+    background-color: #00c4b4;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+td {
+     background-color: #424250; 
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+}
+
+caption {
+    font-size: 20px;
+    text-align: left;
+    margin: 10px;
+}
+
